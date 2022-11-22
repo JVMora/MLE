@@ -7,7 +7,6 @@ Some resources:
 * Advanced Analysis Methods in Natural Resources. Shoemaker
 * BEBIb 103/ BEBIa 103. 2020
 * Bayesian Economics. Hicks
-* Data Science. Cambridge
-* BDA3. Regression and other stories. Gelman
+* BDA3. Gelman
 * Duke University
 * Kery books. Royle and Dorazio
